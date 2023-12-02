@@ -1,0 +1,67 @@
+.logo-brand img {
+    width: 150px;
+}
+
+#header {
+    background-image: url(/Assets/img/bg-header-1.png);
+    /* background-color: rgb(0, 1, 66); */
+    height: 720px;
+    background-size: cover;
+    margin-top: -100px;
+    background-attachment: fixed;
+}
+
+h1 .header-text {
+    margin-top: -100px;
+}
+
+.hero-text {
+    padding-top: 200px;
+}
+
+.hero-text h1 {
+    font-weight: medium;
+}
+
+nav {
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+    position: fixed;
+    z-index: 2;
+
+}
+
+.navbar {
+    z-index: 2;
+}
+
+
+#owr-join {
+    background-image: url(/Assets/img/bg-header-3.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 450px;
+}
+
+.hakcipta {
+    height: 50px;
+}
+
+/* Pemrogramann website */
+#header-web {
+    background-color: rgb(1, 7, 100);
+    height: 300px;
+    margin-top: -90px;
+}
+
+.project {
+    margin-top: -70px;
+}
+
+#content-project {
+    margin-top: -120px;
+}
+
+/* Pemrogramann website */
